@@ -1,2 +1,15 @@
 # Linear Regression
-A simple Linear Regression project using Python and Scikit-learn
+
+## This project demonstrates Linear Regression using Python and Scikit-learn
+
+## Technologies Used
+-Python
+-Pandas
+-matplotlib
+-Scikit-learn
+
+## Algorithm
+-Linear Regression
+
+## Results
+Successfully trained and evaluated a Linear Regression Model
