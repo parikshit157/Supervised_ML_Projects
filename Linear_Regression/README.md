@@ -2,6 +2,9 @@
 
 ## This project demonstrates Linear Regression using Python and Scikit-learn
 
+## Dataset
+insurance.csv
+
 ## Technologies Used
 -Python
 -Pandas
