@@ -8,8 +8,6 @@ heart.xlsx
 ## Technologies Used
 -Python
 -Pandas
--matplotlib
--seaborn
 -Scikit-learn
 
 ## Algorithm
