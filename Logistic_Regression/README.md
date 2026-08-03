@@ -3,7 +3,7 @@
 ## This project demonstrates Logistic Regression using Python and Scikit-learn for binary classification tasks
 
 ## Dataset
-insurance.xlsx
+heart.xlsx
 
 ## Technologies Used
 -Python
